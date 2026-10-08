@@ -1,5 +1,7 @@
 # Nexo — marketplace de tecnologia
 
+[Abrir o protótipo online](https://miguel7258.github.io/nexo-marketplace/)
+
 Protótipo demonstrativo em React, TypeScript e Vite, com catálogo multivendedor,
 carrinho, compra simulada e gestão de ofertas por loja. Português de Portugal.
 

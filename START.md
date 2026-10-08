@@ -1,5 +1,11 @@
 # Nexo — Marketplace Tecnológico
 
+## Protótipo online
+
+Abre [Nexo no GitHub Pages](https://miguel7258.github.io/nexo-marketplace/).
+O [repositório GitHub](https://github.com/Miguel7258/nexo-marketplace) publica automaticamente alterações na branch `main` após testes e build.
+Carrinho, ofertas e encomendas demonstrativas são guardados apenas no navegador utilizado; não sincronizam entre dispositivos.
+
 ## Instruções de Execução Local (Verificadas)
 
 O protótipo foi testado e validado em ambiente Windows local com Node.js (v24.x) e npm.
@@ -64,4 +70,3 @@ Usa uma sessão por fase quando o contexto anterior deixar de ser útil. Executa
 
 ### Referências de Formato
 Referências oficiais: [custom subagents](https://antigravity.google/docs/subagents?tab=cli), [rules](https://www.antigravity.google/docs/rules/) e [skills](https://www.antigravity.google/docs/skills?tab=ide). A economia de tokens depende do modelo e da execução; não foi medida.
-

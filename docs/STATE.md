@@ -1,7 +1,8 @@
 # Estado atual
 
 - Fase atual: Fase 4 — Validação e entrega local (Concluída e Aprovada com validação independente).
-- Próxima tarefa: Publicar no GitHub Pages, conforme pedido do utilizador em 2026-10-08. Aguardar autenticação e identificação do repositório GitHub.
+- Próxima tarefa: Explorar o protótipo publicado e definir eventuais melhorias.
+- Publicação (2026-10-08): repositório `https://github.com/Miguel7258/nexo-marketplace`; site `https://miguel7258.github.io/nexo-marketplace/`. Workflow GitHub Actions `37770638562` concluído com sucesso. 44 testes e build aprovados localmente e no GitHub. Catálogo, detalhes, carrinho com persistência após recarregar e área de vendedor observados no site público; dados de teste repostos. Build publicado usa HashRouter para suportar links diretos no Pages, mantendo BrowserRouter no desenvolvimento local. Dados continuam independentes por navegador/dispositivo.
 - Ficheiros relevantes:
   - `Ver-Site.bat`: script de arranque local e visualização automática no navegador padrão (`http://127.0.0.1:5173/`).
   - `package.json`: scripts `dev`, `build`, `preview`, `test`.
@@ -60,5 +61,4 @@
 
 - Pendências:
   - Nenhuma pendência em aberto. Todas as fases (1 a 4) do plano foram concluídas, validadas e aprovadas.
-
 
